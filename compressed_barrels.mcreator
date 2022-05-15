@@ -1,0 +1,98 @@
+{
+  "mod_elements": [
+    {
+      "name": "CompressedBarrels2",
+      "type": "gui",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "compressed_barrels_2"
+    },
+    {
+      "name": "CompressedBarrels",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "compressed_barrels"
+    },
+    {
+      "name": "CompressedBarrels3",
+      "type": "tab",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "compressed_barrels_3"
+    },
+    {
+      "name": "CompressedBarrels4",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "compressed_barrels_4"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "it_it": {
+      "block.compressed_barrels.compressed_barrels": "Barili compressi",
+      "itemGroup.tabcompressed_barrels_3": "Barili compressi"
+    },
+    "ru_ru": {
+      "block.compressed_barrels.compressed_barrels": "Сжатые баррели",
+      "itemGroup.tabcompressed_barrels_3": "Сжатые баррели"
+    },
+    "zh_hk": {
+      "block.compressed_barrels.compressed_barrels": "壓縮木桶",
+      "itemGroup.tabcompressed_barrels_3": "壓縮木桶"
+    },
+    "zh_tw": {
+      "block.compressed_barrels.compressed_barrels": "壓縮木桶",
+      "itemGroup.tabcompressed_barrels_3": "壓縮木桶"
+    },
+    "en_us": {
+      "block.compressed_barrels.compressed_barrels": "Compressed Barrels",
+      "itemGroup.tabcompressed_barrels_3": "Compressed Barrels"
+    },
+    "zh_cn": {
+      "block.compressed_barrels.compressed_barrels": "压缩木桶",
+      "itemGroup.tabcompressed_barrels_3": "压缩木桶"
+    },
+    "fr_fr": {
+      "block.compressed_barrels.compressed_barrels": "Barrelsa comprimé",
+      "itemGroup.tabcompressed_barrels_3": "Barrelsa comprimé"
+    },
+    "ja_jp": {
+      "block.compressed_barrels.compressed_barrels": "コンプレッサーバレルサ",
+      "itemGroup.tabcompressed_barrels_3": "コンプレッサーバレルサ"
+    },
+    "de_de": {
+      "block.compressed_barrels.compressed_barrels": "Komprimierte Fässera",
+      "itemGroup.tabcompressed_barrels_3": "Komprimierte Fässera"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "compressed_barrels",
+    "modName": "Compressed Barrels",
+    "version": "1.0.0",
+    "author": "a3231, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "modElementsPackage": "net.mcreator.compressedbarrels",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200119518
+}
